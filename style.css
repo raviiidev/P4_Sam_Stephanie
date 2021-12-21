@@ -821,11 +821,11 @@ body {
   }
   
   .bg-banniere {
-    background-image: url("img/la-chouette-agence-banniere.jpg");
+    background-image: url("img/la-chouette-agence-banniere.webp");
   }
   
   .bg-presentation {
-    background-image: url("img/image-de-presentation.jpg");
+    background-image: url("img/image-de-presentation.webp");
   }
   
   @media (max-width: 1024px) {
@@ -905,8 +905,8 @@ body {
     h6,
     p,
     #disqus_thread {
-      padding-left: 10px !important;
-      padding-right: 10px !important;
+      padding-left: 50px !important;
+      padding-right: 50px !important;
     }
     .b-parallax {
       background-attachment: scroll;
@@ -1053,12 +1053,12 @@ body {
   .col-sm-3 {
     padding: 1rem;
   }
-  .col-sm-12{
-      width:100%;
+  .col-sm-12 img{
+      width:150px;
+      height:150px;
   }
   .col-sm-6 p{
-      font-size:1.5rem;
-     
+      font-size:1.5rem; 
   }
   
   
